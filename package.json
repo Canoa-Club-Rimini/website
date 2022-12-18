@@ -2,8 +2,10 @@
   "name": "canocaclubrimini-website",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
+    "watch": "hugo -w",
+    "start:local": "hugo server -D --disableFastRender",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

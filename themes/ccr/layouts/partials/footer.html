@@ -1,0 +1,11 @@
+<footer class="footer fixed-bottom bg-dark">
+
+    <div class="row footer-text">
+        <div class="col-12 col-md text-center text-md-left nav-link text-white">© Canoa Club Rimini - 2020 All rights reserved.</div>
+    </div>
+
+    <!-- JavaScript and dependencies -->
+
+    {{ $bootstrapJs := resources.Get "/js/bootstrap.bundle.min.js" }}
+    <script src="{{ $bootstrapJs.Permalink | relURL }}"></script>
+</footer>
