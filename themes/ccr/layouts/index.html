@@ -1,13 +1,27 @@
 {{ define "main" }}
 
-<div class="container">
+<div class="container-fluid mt-5 p-0">
     <div class="row">
-        <div class="col-md-6">
-            <!-- Image here -->
+        <div class="col-md-12">
+            <div id="home-cover" class="d-flex flex-column flex-nowrap align-content-center justify-content-center text-center">
+                <div class="claim">
+                    <h1>Canoa Club Rimini</h1>
+                    <h2>Corsi ed eventi per amanti di canoa e kayak a Rimini e dintorni</h2>
+                </div>
+            </div>
         </div>
-        <div class="col-md-6">
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6 p-3 home-block home-image-block">
+            <!-- Image here -->
+            <img src="/images/home_about_us.jpg" alt="">
+        </div>
+        <div class="col-md-6 p-3 home-block text-justify">
             <h2>Navighiamo da tempo in queste acque</h2>
-            <hr />
+            <hr class="w-100" />
             <p>
                 La A.S.D <strong>Canoa Club Rimini</strong>, iscritta alla Federazione Italiana Canoa e Kayak (FICK) e
                 al CONI, è attiva sul territorio regionale ormai da 40 anni. La società organizza attività ludiche e
@@ -17,22 +31,26 @@
                 Il C.C.R. promuove l’avvicinamento a questo meraviglioso sport a tutti coloro che vogliono provare
                 l’esperienza di stare a stretto contatto con la natura marittima e lacustre.
             </p>
-            <a href="/corsi" class="btn btn-primary w-100">Scopri la nostra storia</a>
+            <a href="/corsi" class="btn btn-primary btn-pill w-100 p-2 mt-3">Scopri la nostra storia</a>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 home-block order-1 order-md-1 order-sm-2">
             <h2>Il corso su misura per te</h2>
-            <hr />
+            <hr class="w-100" />
             <p>
                 Il Canoa Club Rimini propone corsi di gruppo, lezioni individuali ed Open day, per tutti i tipi di
-                esigenze, età e capacità. Vuoi provare a salire in un kayak o vuoi migliorare le tue abilità in acqua?
-                Accedi alla sezione CORSI.
+                esigenze, età e capacità.
             </p>
-            <a href="/corsi" class="btn btn-primary w-100">Scopri i corsi</a>
+            <p>
+                Vuoi provare a salire in un kayak o vuoi migliorare le tue abilità in acqua? Clicca qui sotto e scopri
+                tutti i nostri corsi!
+            </p>
+            <a href="/corsi" class="btn btn-primary btn-pill w-100 p-2 mt-3">Scopri i corsi</a>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 p-3 home-block home-image-block order-2 order-md-2 order-sm-1">
             <!-- Image here -->
+            <img src="/images/home_courses.jpg" alt="">
         </div>
     </div>
 </div>

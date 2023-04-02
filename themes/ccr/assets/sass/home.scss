@@ -1,0 +1,25 @@
+.home-block {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: start;
+
+  height: 35rem;
+}
+
+  .home-image-block img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#home-carousel-container .carousel-inner{
+  height: 60vh;
+
+  .carousel-item img {
+    max-height: 60vh;
+    object-fit: cover;
+  }
+}
