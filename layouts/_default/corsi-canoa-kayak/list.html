@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+<body>
+    {{- partial "nav.html" . -}}
+
+    {{- partial "header.html" . -}}
+
+    <div class="container single courses">
+        <div class="row">
+            <div class="col-md-12 px-5 my-5 bg-light">
+                {{ $.Content }}
+            </div>
+        </div>
+
+        <div class="row">
+            {{ range (where .Site.RegularPages "Type" "course").ByParam "listOrder" }}
+
+            <div class="col-md-3 text-center">
+
+                <div class="card w-100">
+                    <img src="{{ .Params.headerImageUrl }}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h3 class="card-title" href="{{ .Permalink }}">{{ .Title }}</h3>
+                        <p class="card-text">{{ .Params.subtitle }}</p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{ .Permalink }}" class="btn btn-primary">Scopri il corso</a>
+                    </div>
+                </div>
+
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    {{- partial "footer.html" . -}}
+</body>
+</html>

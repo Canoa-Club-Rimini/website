@@ -1,8 +1,11 @@
-baseURL = 'https://canoaclubrimini.com/'
+baseURL = 'http://localhost'
 languageCode = 'it-it'
 title = 'Canoa Club Rimini'
 theme = "ccr"
 relativeURLS = true
+
+[params]
+    subtitle = "Scopri insieme a noi il piacere della canoa"
 
 [module]
   [[module.mounts]]
