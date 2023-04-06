@@ -1,11 +1,13 @@
-<footer class="footer mt-3">
+<div class="container-fluid">
+    <footer class="footer mt-3">
 
-    <div class="row footer-text bg-dark py-3">
-        <div class="col-12 col-md text-center text-md-left nav-link text-white">© Canoa Club Rimini - 2023 All rights reserved.</div>
-    </div>
+        <div class="row footer-text bg-dark py-3">
+            <div class="col-12 col-md text-center text-md-left nav-link text-white">© Canoa Club Rimini - 2023 All rights reserved.</div>
+        </div>
 
-    <!-- JavaScript and dependencies -->
+        <!-- JavaScript and dependencies -->
 
-    {{ $bootstrapJs := resources.Get "/js/bootstrap.bundle.min.js" }}
-    <script src="{{ $bootstrapJs.Permalink | relURL }}"></script>
-</footer>
+        {{ $bootstrapJs := resources.Get "/js/bootstrap.bundle.min.js" }}
+        <script src="{{ $bootstrapJs.Permalink | relURL }}"></script>
+    </footer>
+</div>
