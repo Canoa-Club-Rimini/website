@@ -34,3 +34,23 @@ a.btn, h1, h2 {
     }
   }
 }
+
+nav {
+  .navbar-brand {
+    img {
+      width: 3rem;
+    }
+  }
+
+  .navbar-nav {
+    .nav-item a {
+      font-weight: bold;
+      font-size: 1.2rem;
+      color: #000;
+    }
+
+    .nav-item.active a {
+      color: rgba(55,137,207,1);;
+    }
+  }
+}
