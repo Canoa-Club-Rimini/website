@@ -1,10 +1,10 @@
 ---
-title: "Fluviale"
+title: "🔥 Fluviale"
 subtitle: "Dedicato a chi vuole avvicinarsi alle correnti fluviali"
 date: 2023-04-02T20:55:03+02:00
 draft: false
 layout: corsi-canoa-kayak/single
-headerImageUrl: "/images/header_courses_base.jpg"
+headerImageUrl: "/images/header_courses_river.jpg"
 type: course
 listOrder: 4
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Base"
+title: "🔰 Base"
 subtitle: "Dedicato a chi vuole imparare ad andare in kayak"
 date: 2023-04-02T20:55:03+02:00
 draft: false

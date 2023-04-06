@@ -1,10 +1,10 @@
 ---
-title: "Estivi & Classi scolastiche"
+title: "🏫 Estivi & Classi scolastiche"
 subtitle: "Dedicato a classi e ai gruppi"
 date: 2023-04-02T20:55:03+02:00
 draft: false
 layout: corsi-canoa-kayak/single
-headerImageUrl: "/images/header_courses_base.jpg"
+headerImageUrl: "/images/header_courses_summer.jpg"
 type: course
 listOrder: 2
 ---

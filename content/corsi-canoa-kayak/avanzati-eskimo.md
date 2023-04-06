@@ -1,10 +1,10 @@
 ---
-title: "Avanzati & Eskimo"
+title: "💪 Avanzati & Eskimo"
 subtitle: "Dedicato a chi migliorare il proprio stile"
 date: 2023-04-02T20:55:03+02:00
 draft: false
 layout: corsi-canoa-kayak/single
-headerImageUrl: "/images/header_courses_base.jpg"
+headerImageUrl: "/images/header_courses_eskimo.jpg"
 type: course
 listOrder: 3
 ---

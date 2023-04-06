@@ -8,24 +8,26 @@
 
     <div class="container single courses">
         <div class="row">
-            <div class="col-md-12 px-5 my-5 bg-light">
-                {{ $.Content }}
+            <div class="col-md-12 p-5 my-5 bg-light">
+                <p class="m-0">{{ $.Content }}</p>
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mb-5">
             {{ range (where .Site.RegularPages "Type" "course").ByParam "listOrder" }}
 
             <div class="col-md-3 text-center">
 
-                <div class="card w-100">
-                    <img src="{{ .Params.headerImageUrl }}" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h3 class="card-title" href="{{ .Permalink }}">{{ .Title }}</h3>
+                <div class="card courses-card h-100 w-100 border-0">
+                    <a href="{{ .Permalink }}">
+                        <img src="{{ .Params.headerImageUrl }}" class="card-img-top" alt="...">
+                    </a>
+                    <div class="card-body bg-light">
+                        <h3 class="card-title fw-bold">{{ .Title }}</h3>
                         <p class="card-text">{{ .Params.subtitle }}</p>
                     </div>
                     <div class="card-footer">
-                        <a href="{{ .Permalink }}" class="btn btn-primary">Scopri il corso</a>
+                        <a href="{{ .Permalink }}" class="btn btn-primary py-3 w-100">Scopri il corso</a>
                     </div>
                 </div>
 

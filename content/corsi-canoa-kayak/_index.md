@@ -6,5 +6,6 @@ draft: false
 type: list
 layout: corsi-canoa-kayak/list
 ---
+Indipendentemente dal tuo livello di esperienza, **abbiamo il corso che fa per te**!
 
-hello guys
+Leggi i dettagli di ogni corso disponibile e se qualcosa non è chiaro, non preoccuparti, contattaci! Siamo qui per te.
