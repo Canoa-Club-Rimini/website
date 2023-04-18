@@ -27,14 +27,14 @@ E’ necessario munirsi di certificato medico non agonistico con ECG a riposo. A
 ## Prezzi
 
 ### Per i maggiorenni:
-* 150 € nel caso di corsi individuali
-* 140 €/cad. per corsi di due persone
-* 130€/cad. per corsi di tre persone
+* 160 € nel caso di corsi individuali
+* 150 €/cad. per corsi di due persone
+* 140€/cad. per corsi di tre persone
 
 ### Per i minorenni:
-* 100 € nel caso di corsi individuali
-* 90 €/cad. per corsi di due ragazzi/e
-* 80 €/cad. per corsi di tre ragazzi/e
+* 110 € nel caso di corsi individuali
+* 100 €/cad. per corsi di due ragazzi/e
+* 90 €/cad. per corsi di tre ragazzi/e
 
 Nei costi indicati è compreso anche il tesseramento per un intero anno solare al CCR, inclusa l’assicurazione e la
 possibilità di usufruire di tutto il materiale e le imbarcazioni.
