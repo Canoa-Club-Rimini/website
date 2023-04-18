@@ -16,7 +16,7 @@
         <div class="row mb-5">
             {{ range (where .Site.RegularPages "Type" "course").ByParam "listOrder" }}
 
-            <div class="col-md-3 text-center">
+            <div class="col-md-3 mt-3 text-center">
 
                 <div class="card courses-card h-100 w-100 border-0">
                     <a href="{{ .Permalink }}">
@@ -27,7 +27,7 @@
                         <p class="card-text">{{ .Params.subtitle }}</p>
                     </div>
                     <div class="card-footer">
-                        <a href="{{ .Permalink }}" class="btn btn-primary py-3 w-100">Scopri il corso</a>
+                        <a href="{{ .Permalink }}" class="btn btn-primary btn-pill py-2 w-100 mt-3">Scopri il corso</a>
                     </div>
                 </div>
 
