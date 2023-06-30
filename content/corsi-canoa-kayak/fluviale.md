@@ -36,4 +36,4 @@ Il Canoa Club Rimini mette comunque a disposizione la possibilità di iscriversi
 
 IT 92 Y062 3024 2270 00030059367
 
-Alla scadenza, il rinnovo della tessera associativa avrà sempre un costo di 70 €.
+Alla scadenza, il rinnovo della tessera associativa avrà sempre un costo di 80 €.
