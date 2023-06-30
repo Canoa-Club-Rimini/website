@@ -35,4 +35,4 @@ Una volta accordatisi con i referenti del Club, è possibile procedere al pagame
 
 **IT 92 Y062 3024 2270 00030059367**
 
-Alla scadenza, il rinnovo della tessera associativa avrà sempre un costo di 70 €.
+Alla scadenza, il rinnovo della tessera associativa avrà sempre un costo di 80 €.
