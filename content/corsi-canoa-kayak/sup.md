@@ -1,10 +1,10 @@
 ---
 title: "🔥 SUP"
-subtitle: "Dedicato a chi vuole avvicinarsi alle correnti fluviali"
+subtitle: "Dedicato a chi vuole avvicinarsi al SUP"
 date: 2023-04-02T20:55:03+02:00
 draft: false
 layout: corsi-canoa-kayak/single
-headerImageUrl: "/images/header_courses_river.jpg"
+headerImageUrl: "/images/sup.jpg"
 type: course
 listOrder: 4
 ---
