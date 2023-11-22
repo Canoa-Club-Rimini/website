@@ -28,6 +28,7 @@ Il Canoa Club di Rimini fornirà, durante i corsi, tutta l’attrezzatura necess
 ## Prezzi
 
 160€ a persona
+
 Nei costi indicati è compreso anche il tesseramento per un intero anno solare al CCR, inclusa l’assicurazione e la possibilità di usufruire di tutto il materiale e le imbarcazioni. Una volta accordatisi con i referenti del Club, è possibile procedere al pagamento della quota d’iscrizione tramite bonifico bancario, all’iban:
 
 IT 92 Y062 3024 2270 00030059367
