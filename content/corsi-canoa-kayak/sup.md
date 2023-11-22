@@ -4,7 +4,7 @@ subtitle: "Dedicato a chi vuole avvicinarsi al SUP"
 date: 2023-04-02T20:55:03+02:00
 draft: false
 layout: corsi-canoa-kayak/single
-headerImageUrl: "/images/sup.jpg"
+headerImageUrl: "/images/header_courses_sup.jpg"
 type: course
 listOrder: 4
 ---
