@@ -1,5 +1,5 @@
 ---
-title: "💪 Avanzati & Eskimo"
+title: "💪 Avanzati, Eskimo & Fluviali"
 subtitle: "Dedicato a chi migliorare il proprio stile"
 date: 2023-04-02T20:55:03+02:00
 draft: false
@@ -10,7 +10,7 @@ listOrder: 3
 ---
 
 ## A chi è rivolto ?
-E’ rivolto a tutti coloro che possiedono una conclamata esperienza di navigazione e che vogliono acquisire totale sicurezza in kayak. Nel caso gli interessati non fossero già tesserati al CCR, viene richiesta una prova in acqua per confermare le capacità di conduzione del kayak (es. appoggi). Questo tipo di corso è rivolto a persone di età compresa tra i 18 ed i 65 anni. Vista la tipologia delle lezioni, è richiesta un’adeguata preparazione fisica.
+E’ rivolto a tutti coloro che possiedono una conclamata esperienza di navigazione e che vogliono acquisire totale sicurezza in kayak. Nel caso gli interessati non fossero già tesserati al CCR, viene richiesta una prova in acqua per confermare le capacità di conduzione del kayak (es. appoggi). Questo tipo di corso è rivolto a persone di età compresa tra i 18 ed i 65 anni. Vista la tipologia delle lezioni, è richiesta un’adeguata preparazione fisica. Questa opzione è rivolta a tutti coloro che vogliono avvicinarsi all'ambiente fluvialee che vorrebbero provare sensazioni diverse da quelle marittime. 
 
 ---
 
@@ -29,7 +29,7 @@ E’ necessario munirsi di certificato medico non agonistico con ECG a riposo. A
 * 20 €/lezione nel caso di corsi individuali
 * 15 €/cad./lezione per corsi di due persone
 
-Ai costi indicati, è necessario integrare quello del tesseramento per un intero anno solare al CCR (70€) che include l’assicurazione e la possibilità di usufruire di tutto il materiale e le imbarcazioni.
+Ai costi indicati, è necessario integrare quello del tesseramento per un intero anno solare al CCR (80€) che include l’assicurazione e la possibilità di usufruire di tutto il materiale e le imbarcazioni.
 
 Una volta accordatisi con i referenti del Club, è possibile procedere al pagamento della quota d’iscrizione anche tramite bonifico bancario, all’iban:
 
