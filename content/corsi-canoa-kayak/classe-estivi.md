@@ -16,7 +16,7 @@ Il Club propone lezioni **in classe, in palestra ed in acqua.**
 
 Nel mese di Luglio, il CCR organizza inoltre corsi con due appuntamenti settimanali.
 
-Questi tipi di corsi sono rivolti a tutti i ragazzi dai 8 ai 16 anni.
+Questi tipi di corsi sono rivolti a tutti i ragazzi dai 10 ai 16 anni.
 
 ---
 
