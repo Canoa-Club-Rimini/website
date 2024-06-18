@@ -20,14 +20,14 @@ Al corso possono partecipare un massimo di 2 persone e si compone di tre lezioni
 ---
 
 ## Requisiti per partecipare
-E’ necessario munirsi di certificato medico non agonistico con ECG a riposo. Ai corsi è bene presentarsi con: costume, 2 asciugamani, intero cambio di indumenti, cappello e corda di spago per preservare eventuali occhiali da vista. Le scarpe da scogli sono un optional gradito.
+E’ necessario munirsi di certificato medico non agonistico. Ai corsi è bene presentarsi con: costume, 2 asciugamani, intero cambio di indumenti, cappello e corda di spago per preservare eventuali occhiali da vista. Le scarpe da scogli sono un optional gradito.
 Il Canoa Club di Rimini fornirà, durante i corsi, tutta l’attrezzatura necessaria.
 
 ---
 
 ## Prezzi
 
-160€ a persona
+120€ a persona
 
 Nei costi indicati è compreso anche il tesseramento per un intero anno solare al CCR, inclusa l’assicurazione e la possibilità di usufruire di tutto il materiale e le imbarcazioni. Una volta accordatisi con i referenti del Club, è possibile procedere al pagamento della quota d’iscrizione tramite bonifico bancario, all’iban:
 
