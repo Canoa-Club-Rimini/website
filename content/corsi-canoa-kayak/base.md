@@ -20,7 +20,7 @@ Al corso possono partecipare un massimo di 3 persone e si compone di due lezioni
 ---
 
 ## Requisiti per partecipare
-E’ necessario munirsi di certificato medico non agonistico con ECG a riposo. Ai corsi è bene presentarsi con: costume, 2 asciugamani, intero cambio di indumenti, cappello e corda di spago per preservare eventuali occhiali da vista. Le scarpe da scogli sono un optional gradito. Tutto il resto del materiale viene fornito dal CCR. Si accetteranno solo corsisti in grado di nuotare o con una buona confidenza con l’acqua.
+E’ necessario munirsi di certificato medico non agonistico. Ai corsi è bene presentarsi con: costume, 2 asciugamani, intero cambio di indumenti, cappello e corda di spago per preservare eventuali occhiali da vista. Le scarpe da scogli sono un optional gradito. Tutto il resto del materiale viene fornito dal CCR. Si accetteranno solo corsisti in grado di nuotare o con una buona confidenza con l’acqua.
 
 ---
 
