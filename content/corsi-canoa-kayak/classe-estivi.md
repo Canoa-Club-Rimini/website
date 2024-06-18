@@ -26,7 +26,7 @@ Il Club ha la possibilità di personalizzare gli appuntamenti a seconda di ogni 
 ---
 
 ## Requisiti per partecipare
-E’ necessario munirsi di certificato medico non agonistico con ECG a riposo o della certificazione del medico di base/pediatra.
+E’ necessario munirsi di certificato medico non agonistico o della certificazione del medico di base/pediatra.
 
 Ai corsi è bene presentarsi con: costume, 2 asciugamani, intero cambio di indumenti, cappello e corda di spago per preservare eventuali occhiali da vista. Le scarpe da scogli sono un optional gradito.
 Tutto il resto del materiale viene fornito dal CCR.
