@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+<body>
+{{- partial "nav.html" . -}}
+
+{{- partial "header.html" . -}}
+
+<div class="container">
+    <div class="row mt-5">
+        <div class="col-md-10 offset-md-1 bg-light p-5 text-center contacts-content">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{- partial "footer.html" . -}}
+
+<!-- Script per aprire solo i link esterni in una nuova scheda -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const links = document.querySelectorAll("a[href]");
+      links.forEach(link => {
+        const href = link.getAttribute("href");
+        // Ignora ancore e link javascript
+        if (href.startsWith('#') || href.startsWith('javascript:')) return;
+  
+        // Crea un oggetto URL per confrontare gli host
+        const linkUrl = new URL(href, window.location.origin);
+        if (linkUrl.hostname !== window.location.hostname) {
+          link.setAttribute("target", "_blank");
+          link.setAttribute("rel", "noopener noreferrer");
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>
