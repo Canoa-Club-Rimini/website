@@ -23,5 +23,3 @@ Puoi venire a trovarci e conoscere di persona la nostra realtà!
 Ti consigliamo prima di chiamare, così da essere sicuro di trovare qualcuno pronto ad accoglierti! 
 
 [Via Antonio Labriola, 5, 47921 Rimini (RN)](https://goo.gl/maps/cowc2Pd27pwXqiQW9)
-
----
