@@ -13,7 +13,7 @@ Puoi chiamarci in qualsiasi momento al [+39 333 647 9852](tel:+393336479852)
 ---
 
 ## ✉️ Scrivi
-Scrivi una mail all'indirizzo [info@canoaclub.com](mailto:info@canoaclubrimini.com), ti risponderà sicuramente la persona giusta!
+Scrivi una mail all'indirizzo [info@canoaclubrimini.com](mailto:info@canoaclubrimini.com), ti risponderà sicuramente la persona giusta!
 
 ---
 
