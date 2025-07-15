@@ -7,7 +7,7 @@ layout: documents
 headerImageUrl: "/images/header_documents.jpg"
 ---
 
-## [📘 STATUTO (PDF)](https://drive.google.com/file/d/1BA9wfiCDgNVFWOGvk_vOfVo62lqJmszV/view?usp=drive_link)
+## [📘 STATUTO (PDF)](https://drive.google.com/file/d/1UHIl-bk086rEOJWqzgcAv8c4NNS3H2MI/view?usp=sharing)
 
 ---
 
