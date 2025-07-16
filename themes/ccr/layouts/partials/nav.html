@@ -1,40 +1,34 @@
 <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-        <a class="navbar-brand m-0 px-2" href="#">
-            <img src="/images/logo.png">
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link" href="/">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/chi-siamo">Chi Siamo</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/corsi-canoa-kayak">Corsi</a>
-                </li>
-                <!--
-                <li class="nav-item">
-                    <a class="nav-link" href="/eventi">Eventi</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/news">News</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/rotte">Rotte</a>
-                </li>
-                -->
-                <li class="nav-item">
-                    <a class="nav-link" href="/contatti">Contatti</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/documenti">Documenti</a>
-                </li>
-            </ul>
-        </div>
+      <a class="navbar-brand m-0 px-2" href="/">
+        <img src="/images/logo.png" alt="Logo">
+      </a>
+  
+      <button class="navbar-toggler" type="button"
+              data-bs-toggle="collapse" data-bs-target="#navbarNav"
+              aria-controls="navbarNav" aria-expanded="false"
+              aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  
+      <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item {{ if eq .RelPermalink "/" }}active{{ end }}">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item {{ if eq .RelPermalink "/chi-siamo/" }}active{{ end }}">
+            <a class="nav-link" href="/chi-siamo">Chi Siamo</a>
+          </li>
+          <li class="nav-item {{ if strings.HasPrefix .RelPermalink "/corsi-canoa-kayak/" }}active{{ end }}">
+            <a class="nav-link" href="/corsi-canoa-kayak">Corsi</a>
+          </li>
+          <li class="nav-item {{ if eq .RelPermalink "/contatti/" }}active{{ end }}">
+            <a class="nav-link" href="/contatti">Contatti</a>
+          </li>
+          <li class="nav-item {{ if eq .RelPermalink "/documenti/" }}active{{ end }}">
+            <a class="nav-link" href="/documenti">Documenti</a>
+          </li>
+        </ul>
+      </div>
     </nav>
-</div>
+  </div>
