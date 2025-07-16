@@ -7,7 +7,7 @@
 
         <!-- JavaScript and dependencies -->
 
-        {{ $bootstrapJs := resources.Get "/js/bootstrap.bundle.min.js" }}
+        {{ $bootstrapJs := resources.Get "js/bootstrap.bundle.min.js" }}
         <script src="{{ $bootstrapJs.Permalink | relURL }}"></script>
     </footer>
 </div>
