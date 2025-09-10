@@ -1,5 +1,5 @@
 ---
-title: "Corsi Canoa & Kayak"
+title: "Corsi Kayak & Sup"
 subtitle: "Un corso per ogni esigenza ed esperienza"
 headerImageUrl: "/images/header_courses.jpg"
 date: 2023-04-02T20:55:03+02:00
