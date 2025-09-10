@@ -27,4 +27,4 @@ headerImageUrl: "/images/header_documents.jpg"
 
 ---
 
-## [📊 BILANCIO ANNUALE 2023 (PDF)](https://drive.google.com/file/d/1UchaQOag-Dxh0mxgU_HaR4MKGEin47kD/view?usp=sharing)
+## [📊 BILANCIO ANNUALE 2024 (PDF)](https://drive.google.com/file/d/1vZrp1Fg93AGe-AOXBY9V_JFkBXXVQV_b/view?usp=sharing)
