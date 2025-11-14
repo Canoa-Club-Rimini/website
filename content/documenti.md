@@ -7,24 +7,24 @@ layout: documents
 headerImageUrl: "/images/header_documents.jpg"
 ---
 
-## [📘 STATUTO (PDF)](https://drive.google.com/file/d/1UHIl-bk086rEOJWqzgcAv8c4NNS3H2MI/view?usp=sharing)
+## [📘 STATUTO (PDF)](/Documents/Statuto.pdf)
 
 ---
 
-## [📄 REGOLAMENTO INTERNO (PDF)](https://drive.google.com/file/d/1AbbPfDozJZsYORotCZJvlJNxt9Wu3a9M/view?usp=drive_link)
-
- ---
-
-## [📝 MODULO ISCRIZIONE (PDF)](https://drive.google.com/file/d/18SKDteIabwMtwuqJ_U2x0cG2YbgKiOMa/view?usp=sharing)
+## [📄 REGOLAMENTO INTERNO (PDF)](/Documents/Regolamento.pdf)
 
 ---
 
-## [📝 INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI (PDF)](https://drive.google.com/file/d/1GWNTb9RRR3z3JqXzp1i88707AaVnCTJN/view?usp=sharing)
+## [📝 MODULO ISCRIZIONE (PDF)](/Documents/ModuloIscrizione.pdf)
 
 ---
 
-## [📄 SAFEGUARDING POLICY (PDF)](https://drive.google.com/file/d/1-8hH1SPCRm16Tg-a4LIgxXPvyT0IWQdw/view?usp=drive_link)
+## [📝 INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI (PDF)](/Documents/Privacy.pdf)
 
 ---
 
-## [📊 BILANCIO ANNUALE 2024 (PDF)](https://drive.google.com/file/d/1vZrp1Fg93AGe-AOXBY9V_JFkBXXVQV_b/view?usp=sharing)
+## [📄 SAFEGUARDING POLICY (PDF)](/Documents/Safeguarding.pdf)
+
+---
+
+## [📊 BILANCIO ANNUALE 2024 (PDF)](/Documents/BIL24.pdf)
